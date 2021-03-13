@@ -46,10 +46,7 @@ function clearAllTasks() {
 
 function filterAllTasks(e) {
   const text = e.target.value
-
-  if () {
-    
-  }
+  console.log(text);
 }
 
 // CONTINUE FILTER
